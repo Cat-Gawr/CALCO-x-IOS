@@ -5,7 +5,7 @@
 salve , oggi il 28 - 02 - 2025 pubblicherò l'intero codice 
 di un'applicazione in Switf { per il sistema operativo IOS }
 
-#PROGETTO
+# PROGETTO
 
 Il progetto è composto da otto attività obbligatorie e tre attività facoltative, ho svolto solo quelle obbligatorie che sono le seguenti:
 Fai funzionare la calcolatrice come mostrato nelle lezioni 1 e 2 ( per questo compito guarda i primi due video del corso ).
